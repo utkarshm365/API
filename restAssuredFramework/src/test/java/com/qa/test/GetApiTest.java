@@ -55,13 +55,7 @@ public class GetApiTest extends TestBase {
 			System.out.println(lst);	
 	}
 
-	@Test
-	public void postAPITest() {
-		
-		response = restClient.postData(URI);
-		
-		
-	}
+
 	
 	
 

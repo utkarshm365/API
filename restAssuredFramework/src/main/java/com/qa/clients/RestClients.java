@@ -17,8 +17,8 @@ public class RestClients {
 		return resp;
 	}
 	
-	public Response postData(String url , String entityString) {
-		ContentType(entityString).post(url);
-		return resp;
-	}
+//	public Response postData(String url , String entityString) {
+//		ContentType(entityString).post(url);
+//		return resp;
+//	}
 }
