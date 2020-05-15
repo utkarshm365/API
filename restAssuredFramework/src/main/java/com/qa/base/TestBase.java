@@ -11,7 +11,7 @@ public class TestBase {
 
 	public static Properties prop ;
 	
-	public int status_code_200 = 200;
+	public static int status_code_200 = 200;
 	
 	public TestBase() {
 	
